@@ -73,6 +73,7 @@ The dataset contains information related to:
 * Decision Tree Regressor
 * Random Forest Regressor
 * Support Vector Regression (SVR)
+* Logistic Regression for pollution classification
 
 * Model evaluation using:
 
@@ -85,7 +86,6 @@ The dataset contains information related to:
 
 ## Upcoming Features
 
-* Logistic Regression for pollution classification
 * Model comparison dashboard
 * Save the best-performing model
 * Flask backend
@@ -101,9 +101,10 @@ The dataset contains information related to:
 ```text
 Global-Pollution-Analysis/
 │
-├── Global_Pollution_Analysis_1.2.ipynb
 ├── Global_Pollution_Analysis.csv
-├── Global_Pollution_Analysis.ipynb
+├── Global_Pollution_Analysis_1.3.ipynb
+├── Global_Pollution_Analysis_1.2.ipynb
+├── Global_Pollution_Analysis_1.1.ipynb
 ├── README.md
 ```
 
