@@ -101,9 +101,10 @@ The dataset contains information related to:
 ```text
 Global-Pollution-Analysis/
 │
+├── Global_Pollution_Analysis_1.2.ipynb
+├── Global_Pollution_Analysis.csv
 ├── Global_Pollution_Analysis.ipynb
 ├── README.md
-└── Global_Pollution_Analysis.csv
 ```
 
 This structure will evolve as new components such as the backend, frontend, trained models, and documentation are added.
