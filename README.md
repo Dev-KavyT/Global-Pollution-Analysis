@@ -69,6 +69,11 @@ The dataset contains information related to:
 * Feature selection
 * Train-test split
 * Multiple Linear Regression
+* Polynomial Regression
+* Decision Tree Regressor
+* Random Forest Regressor
+* Support Vector Regression (SVR)
+
 * Model evaluation using:
 
   * Mean Absolute Error (MAE)
@@ -80,10 +85,6 @@ The dataset contains information related to:
 
 ## Upcoming Features
 
-* Polynomial Regression
-* Decision Tree Regressor
-* Random Forest Regressor
-* Support Vector Regression (SVR)
 * Logistic Regression for pollution classification
 * Model comparison dashboard
 * Save the best-performing model
